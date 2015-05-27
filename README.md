@@ -4,4 +4,4 @@ A generic network diagnostics tool. (written in prolog; by Jordan Micah Bennett)
 
 AUTHOR PORTFOLIO
 ============================================
-http://jordanbennett.yzi.me/
+http://jordanmicahbennett.grn.cc/
